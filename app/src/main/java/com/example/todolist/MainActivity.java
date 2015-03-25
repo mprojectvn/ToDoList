@@ -24,6 +24,7 @@ public class MainActivity extends ListActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
 		updateUI();
+        //SinhNX commit
 	}
 
 	@Override
