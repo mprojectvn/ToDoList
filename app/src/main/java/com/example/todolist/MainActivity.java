@@ -88,6 +88,7 @@ public class MainActivity extends ListActivity {
 	}
 
 	public void onDoneButtonClick(View view) {
+        // OK
 		View v = (View) view.getParent();
 		TextView taskTextView = (TextView) v.findViewById(R.id.taskTextView);
 		String task = taskTextView.getText().toString();
