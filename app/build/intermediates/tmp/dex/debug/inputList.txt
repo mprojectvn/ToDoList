@@ -1,0 +1,1 @@
+/Volumes/Data/Android Developer/Course/VTC/Android/2. Android Dev/Workshop/ToDoList/app/build/intermediates/classes/debug
